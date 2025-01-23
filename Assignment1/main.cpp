@@ -1,4 +1,6 @@
-//Test Program personType with first name and last name 
+// Frankie Klimek
+// 1-23-25
+// Data Structures Assignment 1
   
 #include <iostream>  
 #include <string>
